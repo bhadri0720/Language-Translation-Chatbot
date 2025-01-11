@@ -81,3 +81,5 @@ This project implements a real-time language translation chatbot using **Amazon 
 
 ---
 
+### Example Usage
+![image](https://github.com/user-attachments/assets/aa9dca0d-9799-4ed8-8a9e-e33f888ae774)
